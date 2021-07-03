@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru-1", "Soru-1\Soru-1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru-2", "Soru-2\Soru-2.csproj", "{FEA26E0F-7785-47BF-8B58-7126BBCE008A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru-3", "Soru-3\Soru-3.csproj", "{D728689C-6444-4123-84B1-9D59A5256DCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FEA26E0F-7785-47BF-8B58-7126BBCE008A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA26E0F-7785-47BF-8B58-7126BBCE008A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA26E0F-7785-47BF-8B58-7126BBCE008A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D728689C-6444-4123-84B1-9D59A5256DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D728689C-6444-4123-84B1-9D59A5256DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D728689C-6444-4123-84B1-9D59A5256DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D728689C-6444-4123-84B1-9D59A5256DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

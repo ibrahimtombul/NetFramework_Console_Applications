@@ -21,6 +21,7 @@ namespace Soru_2
 			} while (kelime != "10K");
 
 			Console.WriteLine("Sonuc: " + sonuc);
+			Console.ReadKey();
 		}
 	}
 }

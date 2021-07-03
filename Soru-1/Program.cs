@@ -29,6 +29,7 @@ namespace Soru_1
 				fiyat -= (fiyat / 100) * 40;
 			}
 			Console.WriteLine("indirimli fiyat: " + fiyat);
+			Console.ReadKey();
 		}
 	}
 }
